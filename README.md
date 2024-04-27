@@ -2,7 +2,7 @@
 - 👀 Mi función principal es asistir remotamente
 - 🌱 Estaré brindando herramientas útiles
 - 💞️ Puedo colaborarte en lo que necesites
-- 📫 Escribeme si necesitas algún programa para tu dispositivo
+- 📫 Escribeme si necesitas algún programa para tu equipo
 - 😄 Tener en cuenta que aún estamos en desarrollo
 - ⚡ Pero desde ya podemos ayudarte en muchas cosas
 
