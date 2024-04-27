@@ -4,7 +4,7 @@
 - 💞️ Puedo colaborarte en lo que necesites
 - 📫 Escribeme si necesitas algún programa para tu equipo
 - 😄 Tener en cuenta que aún estamos en desarrollo
-- ⚡ Pero desde ya podemos ayudarte en muchas cosas
+- ⚡ Pero desde ya podemos ayudarte en muchas cosas 
 
 <!---
 HanselV09/HanselV09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
